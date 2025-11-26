@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- New York Addresses -->
+    <string name="address_statue_of_liberty">Liberty Island, New York, NY 10004</string>
+    <string name="address_empire_state">20 W 34th St, New York, NY 10001</string>
+    <string name="address_times_square">Broadway and 7th Ave, New York, NY 10036</string>
+    <string name="address_metropolitan_museum">1000 5th Ave, New York, NY 10028</string>
+
+    <!-- Los Angeles Addresses -->
+    <string name="address_walk_of_fame">Hollywood Blvd, Los Angeles, CA 90028</string>
+    <string name="address_griffith_observatory">2800 E Observatory Rd, Los Angeles, CA 90027</string>
+    <string name="address_getty_center">1200 Getty Center Dr, Los Angeles, CA 90049</string>
+    <string name="address_universal_studios">100 Universal City Plaza, Universal City, CA 91608</string>
+
+    <!-- Moscow Addresses -->
+    <string name="address_red_square">Red Square, Moscow, 109012</string>
+    <string name="address_kremlin">Moscow Kremlin, 103132</string>
+    <string name="address_bolshoi_theatre">Theatre Square, 1, Moscow, 125009</string>
+    <string name="address_gorky_park">Krymsky Val, 9, Moscow, 119049</string>
+
+    <!-- Saint Petersburg Addresses -->
+    <string name="address_hermitage">Palace Square, 2, St Petersburg, 190000</string>
+    <string name="address_church_spilled_blood">Griboyedov channel embankment, 2B, St Petersburg, 191186</string>
+    <string name="address_peterhof_palace">Razvodnaya Ulitsa, 2, St Petersburg, 198516</string>
+    <string name="address_mariinsky_theatre">Theatre Square, 1, St Petersburg, 190000</string>
+
+    <!-- Beijing Addresses -->
+    <string name="address_great_wall">Mutianyu, Huairou District, Beijing, 101405</string>
+    <string name="address_forbidden_city">4 Jingshan Front St, Dongcheng, Beijing, 100009</string>
+    <string name="address_temple_of_heaven">1 Tiantan E Rd, Dongcheng, Beijing, 100061</string>
+    <string name="address_birds_nest">1 National Stadium S Rd, Chaoyang, Beijing, 100101</string>
+
+    <!-- Shanghai Addresses -->
+    <string name="address_the_bund">Zhongshan East 1st Rd, Huangpu, Shanghai, 200002</string>
+    <string name="address_shanghai_tower">501 Yincheng Middle Rd, Pudong, Shanghai, 200120</string>
+    <string name="address_shanghai_disneyland">310 Huangzhao Rd, Pudong, Shanghai, 201205</string>
+    <string name="address_oriental_pearl">1 Century Ave, Pudong, Shanghai, 200120</string>
+
+    <!-- London Addresses -->
+    <string name="address_big_ben">Westminster, London SW1A 0AA, United Kingdom</string>
+    <string name="address_tower_of_london">Tower Hill, London EC3N 4AB, United Kingdom</string>
+    <string name="address_buckingham_palace">Westminster, London SW1A 1AA, United Kingdom</string>
+    <string name="address_british_museum">Great Russell St, Bloomsbury, London WC1B 3DG, United Kingdom</string>
+    <string name="address_london_eye">Riverside Building, County Hall, London SE1 7PB, United Kingdom</string>
+    <string name="address_tower_bridge">Tower Bridge Rd, London SE1 2UP, United Kingdom</string>
+
+    <!-- Edinburgh Addresses -->
+    <string name="address_edinburgh_castle">Castlehill, Edinburgh EH1 2NG, United Kingdom</string>
+    <string name="address_royal_mile">Royal Mile, Edinburgh EH1, United Kingdom</string>
+    <string name="address_arthurs_seat">Holyrood Park, Edinburgh EH16 5BT, United Kingdom</string>
+    <string name="address_holyrood_palace">Canongate, Edinburgh EH8 8DX, United Kingdom</string>
+    <string name="address_national_museum_scotland">Chambers St, Edinburgh EH1 1JF, United Kingdom</string>
+    <string name="address_calton_hill">Calton Hill, Edinburgh EH7 5AA, United Kingdom</string>
+
+    <!-- Kuala Lumpur Addresses -->
+    <string name="address_petronas_twin_towers">Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia</string>
+    <string name="address_batu_caves">Gombak, 68100 Batu Caves, Selangor, Malaysia</string>
+    <string name="address_menara_kuala_lumpur">2 Jalan Punchak, 50250 Kuala Lumpur, Malaysia</string>
+    <string name="address_merdeka_square">Jalan Raja, 50050 Kuala Lumpur, Malaysia</string>
+    <string name="address_sri_mahamariamman">163 Jalan Tun H S Lee, 50000 Kuala Lumpur, Malaysia</string>
+    <string name="address_suria_klcc">Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia</string>
+
+    <!-- George Town Addresses -->
+    <string name="address_street_art_george_town">George Town, 10200 Penang, Malaysia</string>
+    <string name="address_kek_lok_si">11500 Air Itam, Penang, Malaysia</string>
+    <string name="address_penang_hill">Jalan Stesen Bukit Bendera, 11300 Air Itam, Penang, Malaysia</string>
+    <string name="address_clan_jetties">Pengkalan Weld, 10300 George Town, Penang, Malaysia</string>
+    <string name="address_blue_mansion">14 Leith St, 10200 George Town, Penang, Malaysia</string>
+    <string name="address_fort_cornwallis">Jalan Tun Syed Sheh Barakbah, 10200 George Town, Penang, Malaysia</string>
+
+    <!-- Rome Addresses -->
+    <string name="address_colosseum">Piazza del Colosseo, 1, 00184 Rome, Italy</string>
+    <string name="address_vatican_museums">Viale Vaticano, 00165 Vatican City, Italy</string>
+    <string name="address_trevi_fountain">Piazza di Trevi, 00187 Rome, Italy</string>
+    <string name="address_pantheon">Piazza della Rotonda, 00186 Rome, Italy</string>
+    <string name="address_roman_forum">Via della Salara Vecchia, 5/6, 00186 Rome, Italy</string>
+    <string name="address_spanish_steps">Piazza di Spagna, 00187 Rome, Italy</string>
+
+    <!-- Venice Addresses -->
+    <string name="address_st_marks_square">Piazza San Marco, 30124 Venice, Italy</string>
+    <string name="address_grand_canal">Grand Canal, 30100 Venice, Italy</string>
+    <string name="address_rialto_bridge">Sestiere San Polo, 30125 Venice, Italy</string>
+    <string name="address_st_marks_basilica">Piazza San Marco, 328, 30124 Venice, Italy</string>
+    <string name="address_doges_palace">Piazza San Marco, 1, 30124 Venice, Italy</string>
+    <string name="address_bridge_of_sighs">Piazza San Marco, 30124 Venice, Italy</string>
+
+    <!-- Paris Addresses -->
+    <string name="address_eiffel_tower">Champ de Mars, 5 Av. Anatole France, 75007 Paris, France</string>
+    <string name="address_louvre_museum">75001 Paris, France</string>
+    <string name="address_notre_dame_cathedral">6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France</string>
+    <string name="address_arc_de_triomphe">Place Charles de Gaulle, 75008 Paris, France</string>
+    <string name="address_champs_elysees">Champs-Élysées, 75008 Paris, France</string>
+    <string name="address_sacre_coeur">35 Rue du Chevalier de la Barre, 75018 Paris, France</string>
+
+    <!-- Marseille Addresses -->
+    <string name="address_basilique_notre_dame">Rue Fortia, 13007 Marseille, France</string>
+    <string name="address_vieux_port">Vieux-Port, 13001 Marseille, France</string>
+    <string name="address_calanques_national_park">13009 Marseille, France</string>
+    <string name="address_le_panier">Le Panier, 13002 Marseille, France</string>
+    <string name="address_chateau_dif">13007 Marseille, France</string>
+    <string name="address_mucem">1 Esplanade du J4, 13002 Marseille, France</string>
+
+    <!-- Dubai Addresses -->
+    <string name="address_burj_khalifa">1 Sheikh Mohammed bin Rashid Blvd, Dubai, UAE</string>
+    <string name="address_dubai_mall">Financial Centre Rd, Dubai, UAE</string>
+    <string name="address_palm_jumeirah">Palm Jumeirah, Dubai, UAE</string>
+    <string name="address_burj_al_arab">Jumeirah St, Dubai, UAE</string>
+    <string name="address_dubai_fountain">Burj Khalifa St, Dubai, UAE</string>
+    <string name="address_the_frame">Zabeel Park, Dubai, UAE</string>
+
+    <!-- Abu Dhabi Addresses -->
+    <string name="address_sheikh_zayed_mosque">Sheikh Rashid Bin Saeed St, Abu Dhabi, UAE</string>
+    <string name="address_louvre_abu_dhabi">Saadiyat Island, Abu Dhabi, UAE</string>
+    <string name="address_emirates_palace">West Corniche Rd, Abu Dhabi, UAE</string>
+    <string name="address_ferrari_world">Yas Island, Abu Dhabi, UAE</string>
+    <string name="address_qasr_al_watan">Al Ras Al Akhdar, Abu Dhabi, UAE</string>
+    <string name="address_yas_island">Yas Island, Abu Dhabi, UAE</string>
+</resources>

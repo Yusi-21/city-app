@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- New York Descriptions+ -->
+    <string name="desc_statue_of_liberty">Best visited spring or fall to avoid crowds. Book tickets online in advance. Ferry ride offers great skyline views. Allow 3–4 hours for visit. Free entry to pedestal museum.</string>
+    <string name="desc_empire_state">Visit early morning or late evening to avoid lines. Night view is spectacular. Skip-the-line tickets available. Observation deck on 86th floor. Perfect for photography enthusiasts.</string>
+    <string name="desc_times_square">Vibrant hub with iconic billboards. Best at night for lights. Free to explore. Crowded, watch for pickpockets. Allow 1–2 hours. Nearby theaters and dining.</string>
+    <string name="desc_metropolitan_museum">Allocate at least 4–5 hours. Free for NY residents. Audio guide recommended. Check special exhibitions schedule. Cafes available inside for breaks.</string>
+
+    <!-- Los Angeles Descriptions -->
+    <string name="desc_walk_of_fame">Less crowded early morning. Wear comfortable shoes. Street performers throughout day. Nearby parking expensive. Free to visit, watch for pickpockets.</string>
+    <string name="desc_griffith_observatory">Free admission, parking fee applies. Sunset views are spectacular. Telescope viewing after dark. Exhibits suitable for all ages. Hike from bottom takes 1 hour.</string>
+    <string name="desc_getty_center">Free admission, parking $20. Reserve timed entry online. Tram ride to hilltop campus. Allow 3–4 hours. Gardens are must-see.</string>
+    <string name="desc_universal_studios">Buy tickets online for discounts. Arrive at opening for shorter lines. Express passes available. Studio tour takes 1 hour. Water rides may get you wet.</string>
+
+    <!-- Moscow Descriptions -->
+    <string name="desc_red_square">Open 24/7, free access. Evening lighting is beautiful. Cathedral tours available. Winter ice rink setup. Security checks at entrances.</string>
+    <string name="desc_kremlin">Buy tickets online to skip lines. Closed Thursdays. Dress modestly for cathedrals. Armory Chamber separate ticket. Allow 3–4 hours minimum.</string>
+    <string name="desc_bolshoi_theatre">Book performances months in advance. Guided tours of historical stage. Dress code for evening shows. Check performance schedule online. Backstage tours available.</string>
+    <string name="desc_gorky_park">Free entry, activities charge. Rent bikes or rollerblades. Winter ice skating. Food stalls throughout. Open from early morning until late.</string>
+
+    <!-- Saint Petersburg Descriptions -->
+    <string name="desc_hermitage">World\'s second largest museum. Free first Thursday monthly. Buy tickets online. Allow full day. Guided tours recommended for highlights.</string>
+    <string name="desc_church_spilled_blood">Mosaic-covered interior. Purchase photo permit. Combination tickets available. Limited opening hours. Restoration completed in 2021.</string>
+    <string name="desc_peterhof_palace">Summer palace with fountains. Grounds free, palaces charge. Fountains operate May–October. Boat transfer from city. Allow 5–6 hours total.</string>
+    <string name="desc_mariinsky_theatre">World-renowned ballet. Book tickets in advance. Historical and new stages. Dress code for evening performances. Backstage tours available.</string>
+
+    <!-- Beijing Descriptions -->
+    <string name="desc_great_wall">Visit Mutianyu section for fewer crowds. Wear comfortable shoes for hiking. Cable car available. Best in spring or autumn. Allow 4–5 hours for visit.</string>
+    <string name="desc_forbidden_city">Book tickets online to avoid long queues. Guided tours recommended. Closed Mondays. Wear sunscreen in summer. Allow 3–4 hours for exploration.</string>
+    <string name="desc_temple_of_heaven">Morning visits ideal for local culture. Audio guides available. Closed Mondays. Photography popular at sunrise. Allow 2–3 hours.</string>
+    <string name="desc_birds_nest">Tours available for stadium interior. Nighttime lighting spectacular. Check event schedule. Nearby Water Cube worth a visit. Allow 1–2 hours.</string>
+
+    <!-- Shanghai Descriptions -->
+    <string name="desc_the_bund">Best at night for skyline views. Walk from south to north. Free entry. Avoid weekends for fewer crowds. Photography spots plentiful.</string>
+    <string name="desc_shanghai_tower">Fastest elevator to observation deck. Book tickets online. Night views stunning. Allow 1–2 hours. Cafes available at top.</string>
+    <string name="desc_shanghai_disneyland">Buy tickets online for discounts. Weekdays less crowded. FastPass available. Allow full day. Bring sunscreen and comfortable shoes.</string>
+    <string name="desc_oriental_pearl">Observation decks at multiple levels. Night views recommended. Book tickets in advance. Restaurants inside tower. Allow 2–3 hours.</string>
+
+    <!-- London Descriptions -->
+    <string name="desc_tower_of_london">Historic fortress with Crown Jewels display. Book tickets online. Guided Yeoman Warder tours included. Allow 3–4 hours. Avoid peak summer crowds.</string>
+    <string name="desc_buckingham_palace">Changing of the Guard at 11 AM. Summer tours of state rooms. Book tickets in advance. Allow 2–3 hours. Best viewed from Victoria Memorial.</string>
+    <string name="desc_british_museum">Free entry, donations appreciated. Audio guides available. Rosetta Stone and Elgin Marbles highlights. Allow 4–5 hours. Cafes inside.</string>
+    <string name="desc_london_eye">Book fast–track tickets online. Sunset rides offer great views. Allow 30–40 minutes for ride. Nearby Southbank for dining. Weather-dependent visibility.</string>
+
+    <!-- Edinburgh Descriptions -->
+    <string name="desc_royal_mile">Historic street with shops and cafes. Walk from castle to palace. Free to explore. Allow 1-2 hours. Evening strolls less crowded.</string>
+    <string name="desc_holyrood_palace">Royal residence with guided tours. Book tickets in advance. Closed when royals in residence. Allow 2 hours. Gardens worth exploring.</string>
+    <string name="desc_national_museum_scotland">Free entry, donations welcome. Diverse exhibits from history to science. Rooftop terrace for views. Allow 3-4 hours. Family-friendly.</string>
+    <string name="desc_calton_hill">Short climb for city views. Visit at sunset. Free entry. Monuments like Nelson’s Monument. Allow 1 hour. Perfect for photography.</string>
+
+    <!-- Kuala Lumpur Descriptions -->
+    <string name="desc_batu_caves">Hindu temple in limestone caves. Wear modest clothing. Climb 272 steps. Free entry, avoid weekends. Allow 2-3 hours.</string>
+    <string name="desc_menara_kuala_lumpur">Observation deck with 360° views. Night visits recommended. Book tickets online. Allow 1-2 hours. Sky Deck for thrill-seekers.</string>
+    <string name="desc_merdeka_square">Historic independence square. Free entry, open 24/7. Visit early morning for photos. Nearby museums worth exploring. Allow 1 hour.</string>
+    <string name="desc_suria_klcc">Luxury mall under Petronas Towers. Wide range of shops and dining. Free entry. Evening visits vibrant. Allow 2-3 hours.</string>
+
+    <!-- George Town Descriptions -->
+    <string name="desc_kek_lok_si">Largest Buddhist temple in Malaysia. Best at sunset or during Lunar New Year. Modest dress required. Allow 2 hours.</string>
+    <string name="desc_penang_hill">Funicular to hilltop for views. Early morning or sunset best. Bring water for trails. Allow 2-3 hours. Restaurants at top.</string>
+    <string name="desc_clan_jetties">Historic waterfront stilt villages. Free entry. Chew Jetty most popular. Sunset photos ideal. Allow 1-2 hours.</string>
+    <string name="desc_blue_mansion">Historic Cheong Fatt Tze mansion. Guided tours only, book ahead. Allow 1 hour. Photography permitted. Vibrant indigo exterior.</string>
+
+    <!-- Rome Descriptions -->
+    <string name="desc_vatican_museums">Sistine Chapel highlight. Book tickets online to avoid queues. Dress modestly. Allow 4-5 hours. Early morning less crowded.</string>
+    <string name="desc_trevi_fountain">Free to visit. Toss a coin for luck. Evening visits less crowded. Allow 30-60 minutes. Nearby gelato shops.</string>
+    <string name="desc_pantheon">Free entry, donations welcome. Audio guides available. Best in morning light. Allow 1 hour. Dress respectfully.</string>
+    <string name="desc_spanish_steps">Free to visit. Best at sunset. No sitting on steps (enforced). Allow 1 hour. Nearby luxury shopping.</string>
+
+    <!-- Venice Descriptions -->
+    <string name="desc_st_marks_square">Heart of Venice. Free entry, cafes expensive. Evening visits magical. Allow 1-2 hours. Watch for flooding in autumn.</string>
+    <string name="desc_st_marks_basilica">Golden mosaics inside. Book skip-the-line tickets. Dress modestly, no photos. Allow 1-2 hours. Free entry, small fees for extras.</string>
+    <string name="desc_doges_palace">Gothic palace with rich history. Book tickets online. Bridge of Sighs included. Allow 2-3 hours. Guided tours available.</string>
+    <string name="desc_bridge_of_sighs">Iconic bridge viewed from outside. Best seen from nearby bridges. Part of Doge’s Palace tour. Allow 30 minutes. Romantic photo spot.</string>
+
+    <!-- Paris Descriptions -->
+    <string name="desc_louvre_museum">World’s largest art museum. Mona Lisa highlight. Book timed entry online. Allow 4-5 hours. Closed Tuesdays. Audio guides available.</string>
+    <string name="desc_notre_dame_cathedral">Under restoration until 2024. View from outside or nearby bridges. Free to visit exterior. Allow 1 hour. Seine River walks nearby.</string>
+    <string name="desc_arc_de_triomphe">Climb for rooftop views. Book tickets online. Allow 1-2 hours. Sunset views best. Traffic circle busy, use underpass.</string>
+    <string name="desc_champs_elysees">Famous avenue for shopping. Free to walk. Evening strolls vibrant. Allow 1-2 hours. Cafes and luxury stores aplenty.</string>
+
+    <!-- Marseille Descriptions -->
+    <string name="desc_vieux_port">Historic harbor with lively vibe. Free to explore. Morning fish market worth seeing. Allow 1-2 hours. Restaurants line the quay.</string>
+    <string name="desc_calanques_national_park">Stunning coastal cliffs. Boat tours or hiking trails. Summer best for swimming. Allow half-day. Bring water and sunscreen.</string>
+    <string name="desc_chateau_dif">Island fortress from Count of Monte Cristo. Boat from Vieux-Port. Allow 2-3 hours. Book ferry tickets in advance.</string>
+    <string name="desc_mucem">Museum of European and Mediterranean cultures. Book tickets online. Allow 2-3 hours. Rooftop views free. Modern architecture standout.</string>
+
+    <!-- Dubai Descriptions -->
+    <string name="desc_dubai_mall">Massive mall with aquarium and ice rink. Free entry, attractions cost extra. Allow 3-4 hours. Evening visits vibrant.</string>
+    <string name="desc_palm_jumeirah">Man-made island with luxury resorts. Boardwalk free to walk. Monorail for views. Allow 2-3 hours. Sunset photos stunning.</string>
+    <string name="desc_dubai_fountain">Free choreographed water show. Evening performances every 30 minutes. Arrive early for best spots. Allow 30 minutes. Near Burj Khalifa.</string>
+    <string name="desc_the_dubai_frame">Views of old and new Dubai. Book tickets online. Allow 1-2 hours. Sunset visits ideal. Zabeel Park nearby.</string>
+
+    <!-- Abu Dhabi Descriptions -->
+    <string name="desc_sheikh_zayed_mosque">Stunning mosque with free entry. Guided tours available. Dress modestly (robes provided). Allow 1-2 hours. Evening lighting beautiful.</string>
+    <string name="desc_louvre_abu_dhabi">Art museum with iconic dome. Book tickets online. Allow 2-3 hours. Sunset visits for architecture. Cafes on-site.</string>
+    <string name="desc_emirates_palace">Luxury hotel with public areas. Free to explore grounds. Book dining for interior access. Allow 1-2 hours. Beachfront views.</string>
+    <string name="desc_yas_island">Entertainment hub with marina, mall, and F1 track. Free to explore. Allow 3-4 hours. Waterpark and beach nearby.</string>
+</resources>

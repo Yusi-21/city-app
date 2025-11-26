@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Cities</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_favorites_yet">No favorites yet</string>
+    <string name="address">Address: </string>
+    <string name="about">About: </string>
+
+    <!-- Countries -->
+    <string name="country_russia">Russia</string>
+    <string name="country_usa">USA</string>
+    <string name="country_china">China</string>
+    <string name="country_uk">UK</string>
+    <string name="country_malaysia">Malaysia</string>
+    <string name="country_italy">Italy</string>
+    <string name="country_uae">UAE</string>
+    <string name="country_france">France</string>
+
+
+    <!-- Cities -->
+    <string name="city_new_york">New York</string>
+    <string name="city_los_angeles">Los Angeles</string>
+    <string name="city_moscow">Moscow</string>
+    <string name="city_saint_petersburg">Saint Petersburg</string>
+    <string name="city_beijing">Beijing</string>
+    <string name="city_shanghai">Shanghai</string>
+    <string name="city_london">London</string>
+    <string name="city_edinburgh">Edinburgh</string>
+    <string name="city_kuala_lumpur">Kuala Lumpur</string>
+    <string name="city_george_town">George Town</string>
+    <string name="city_rome">Rome</string>
+    <string name="city_venice">Venice</string>
+    <string name="city_paris">Paris</string>
+    <string name="city_marseille">Marseille</string>
+    <string name="city_dubai">Dubai</string>
+    <string name="city_abu_dhabi">Abu Dhabi</string>
+
+    <!-- Moscow Places -->
+    <string name="place_red_square">Red Square</string>
+    <string name="place_moscow_kremlin">The Moscow Kremlin</string>
+    <string name="place_bolshoi_theatre">Bolshoi Theatre</string>
+    <string name="place_gorky_park">Gorky Park</string>
+
+    <!-- Saint Petersburg Places -->
+    <string name="place_hermitage">The Hermitage Museum</string>
+    <string name="place_savior_on_blood">Church of the Savior on Spilled Blood</string>
+    <string name="place_peterhof">Peterhof Palace</string>
+    <string name="place_mariinsky">Mariinsky Theatre</string>
+
+    <!-- New York Places -->
+    <string name="place_statue_of_liberty">Statue of Liberty</string>
+    <string name="place_empire_state">Empire State Building</string>
+    <string name="place_times_square">Times Square</string>
+    <string name="place_metropolitan_museum">Metropolitan Museum of Art</string>
+
+    <!-- Los Angeles Places -->
+    <string name="place_walk_of_fame">Walk of Fame</string>
+    <string name="place_griffith_observatory">Griffith Observatory</string>
+    <string name="place_getty_center">Getty Center</string>
+    <string name="place_universal_studios">Universal Studios Hollywood</string>
+
+    <!-- Beijing Places -->
+    <string name="place_great_wall">The Great Wall of China</string>
+    <string name="place_forbidden_city">Forbidden City</string>
+    <string name="place_temple_of_heaven">Temple of Heaven</string>
+    <string name="place_birds_nest">Bird\'s Nest Stadium</string>
+
+    <!-- Shanghai Places -->
+    <string name="place_the_bund">The Bund</string>
+    <string name="place_shanghai_tower">Shanghai Tower</string>
+    <string name="place_shanghai_disneyland">Shanghai Disneyland</string>
+    <string name="place_oriental_pearl">Oriental Pearl Tower</string>
+
+    <!-- London Places -->
+    <string name="place_tower_of_london">Tower of London</string>
+    <string name="place_buckingham_palace">Buckingham Palace</string>
+    <string name="place_british_museum">British Museum</string>
+    <string name="place_london_eye">London Eye</string>
+
+    <!-- Edinburgh Places -->
+    <string name="place_royal_mile">Royal Mile</string>
+    <string name="place_holyrood_palace">Holyrood Palace</string>
+    <string name="place_national_museum_scotland">National Museum of Scotland</string>
+    <string name="place_calton_hill">Calton Hill</string>
+
+    <!-- Kuala Lumpur Places -->
+    <string name="place_batu_caves">Batu Caves</string>
+    <string name="place_kl_tower">Menara Kuala Lumpur Tower</string>
+    <string name="place_merdeka_square">Merdeka Square</string>
+    <string name="place_suria_klcc">Suria KLCC Mall</string>
+
+    <!-- George Town Places -->
+    <string name="place_kek_lok_si">Kek Lok Si Temple</string>
+    <string name="place_penang_hill">Penang Hill</string>
+    <string name="place_clan_jetties">Clan Jetties</string>
+    <string name="place_blue_mansion">Blue Mansion</string>
+
+    <!-- Rome Places -->
+    <string name="place_vatican_museums">Vatican Museums</string>
+    <string name="place_trevi_fountain">Trevi Fountain</string>
+    <string name="place_pantheon">Pantheon</string>
+    <string name="place_spanish_steps">Spanish Steps</string>
+
+    <!-- Venice Places -->
+    <string name="place_st_marks_square">St. Mark\'s Square</string>
+    <string name="place_st_marks_basilica">St. Mark\'s Basilica</string>
+    <string name="place_doges_palace">Doge\'s Palace</string>
+    <string name="place_bridge_of_sighs">Bridge of Sighs</string>
+
+    <!-- Dubai Places -->
+    <string name="place_dubai_mall">The Dubai Mall</string>
+    <string name="place_palm_jumeirah">Palm Jumeirah</string>
+    <string name="place_dubai_fountain">Dubai Fountain</string>
+    <string name="place_dubai_frame">The Dubai Frame</string>
+
+    <!-- Abu Dhabi Places -->
+    <string name="place_sheikh_zayed_mosque">Sheikh Zayed Grand Mosque</string>
+    <string name="place_louvre_abu_dhabi">Louvre Abu Dhabi</string>
+    <string name="place_emirates_palace">Emirates Palace</string>
+    <string name="place_yas_island">Yas Island</string>
+
+    <!-- Paris Places -->
+    <string name="place_louvre">Louvre Museum</string>
+    <string name="place_notre_dame">Notre-Dame Cathedral</string>
+    <string name="place_arc_de_triomphe">Arc de Triomphe</string>
+    <string name="place_champs_elysees">Champs-Élysées</string>
+
+    <!-- Marseille Places -->
+    <string name="place_vieux_port">Vieux-Port</string>
+    <string name="place_calanques">Calanques National Park</string>
+    <string name="place_chateau_dif">Château d\'If</string>
+    <string name="place_mucem">Mucem</string>
+</resources>
