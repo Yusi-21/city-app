@@ -64,7 +64,6 @@ City App - это элегантное Android-приложение для пу�
 
 <img src="https://github.com/Yusi-21/city-app/raw/main/app/src/main/res/drawable/b-all.png" width="100%" alt="all-screens"/>
 
-*Экраны приложений*
 </div>
 
 
